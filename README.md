@@ -9,6 +9,6 @@ f4 .py - palindrome or not
 f5.py - bakery problem
 f6.py -  max area of water
 f7.py - the number of strings of length n that consist only of vowels (a, e, i, o, u) and are lexicographically sorted.
-f8.py - 
+f8.py - A decimal number can be split up into these components (in order):
 f9.py - 
 f10.py - 
