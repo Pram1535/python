@@ -12,3 +12,6 @@ f7.py - the number of strings of length n that consist only of vowels (a, e, i, 
 f8.py - A decimal number can be split up into these components (in order):
 f9.py - 
 f10.py - 
+f11.py - 
+f12.py - 
+f13.py - 
