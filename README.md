@@ -8,3 +8,7 @@ f3.py - happy number or not
 f4 .py - palindrome or not
 f5.py - bakery problem
 f6.py -  max area of water
+f7.py - 
+f8.py - 
+f9.py - 
+f10.py - 
