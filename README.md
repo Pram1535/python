@@ -27,3 +27,16 @@ f17.py -  generate all possible well formed paranthesis for given no. of paranth
 f18.py - regular expression matching
 f19.py - find season based on month and day
 f20.py - to find uncommon words and print them
+
+Day : 3
+
+f21. py - 
+f22. py - 
+f23. py - 
+f24. py - 
+f25. py - 
+f26. py - 
+f27. py - 
+f28. py - 
+f29. py - 
+f30. py - 
