@@ -1,6 +1,7 @@
 # python
 
 Day: 1
+
 f1.py - leap year
 
 prim.py - To find prime num or not
@@ -51,25 +52,25 @@ f20.py - to find uncommon words and print them
 
 Day : 3
 
-f21. py - 
+f21. py -  stock market
 
-f22. py - 
+f22. py - get no of student user detail from client server
 
-f23. py - 
+f23. py - numbers smaller than the current number
 
-f24. py - 
+f24. py - sum of two binary strings
 
-f25. py - 
+f25. py -   max no of steps that can be made forward
 
-f26. py - 
+f26. py - mirror view of given value
 
-f27. py - 
+f27. py - possible unique permutations
 
-f28. py - 
+f28. py -  anagrams
 
-f29. py - 
+f29. py - regular expression matching
 
-f30. py - 
+f30. py - min no of operations required to change one word to another
 
 Day : 4
 
@@ -93,11 +94,13 @@ f39. py -  find season with day and month
 
 f40. py -check if string 1 and string 2 is just scrambled words 
 
+Day :5 
+
 f41. py -  the no of letters in the last word of the scentence
 
 f42. py -  salary,bonus and total salary
 
-f43. py - 
+f43. py -  
 
 f44. py - 
 
@@ -111,4 +114,4 @@ f48. py -
 
 f49. py - 
 
-f50. py - 
+f50. py -  
