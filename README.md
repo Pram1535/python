@@ -40,3 +40,6 @@ f27. py -
 f28. py - 
 f29. py - 
 f30. py - 
+f31. py - 
+f32. py - 
+f33. py - 
