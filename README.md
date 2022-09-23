@@ -78,3 +78,21 @@ f31. py -
 f32. py - 
 
 f33. py - 
+
+f34. py - 
+
+f35. py - 
+
+f36. py - 
+ 
+f37. py - 
+
+f38. py - 
+
+f39. py - 
+
+f40. py - 
+
+f41. py - 
+
+f42. py - 
