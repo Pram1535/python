@@ -73,26 +73,42 @@ f30. py -
 
 Day : 4
 
-f31. py - 
+f31. py - fizzbuzz questoion
 
-f32. py - 
+f32. py -  get no of student user detail from client server
 
-f33. py - 
+f33. py -  how many nums are smaller than current number
 
-f34. py - 
+f34. py - valid palindrome or not
 
-f35. py - 
+f35. py - max no of steps
 
-f36. py - 
+f36. py -  delete all occurance of c in s and print output
  
-f37. py - 
+f37. py - loxilogically sorted
 
-f38. py - 
+f38. py - roman number to integer 
 
-f39. py - 
+f39. py -  find season with day and month
 
-f40. py - 
+f40. py -check if string 1 and string 2 is just scrambled words 
 
-f41. py - 
+f41. py -  the no of letters in the last word of the scentence
 
-f42. py - 
+f42. py -  salary,bonus and total salary
+
+f43. py - 
+
+f44. py - 
+
+f45. py - 
+
+f46. py -
+
+f47. py - 
+
+f48. py - 
+
+f49. py - 
+
+f50. py - 
