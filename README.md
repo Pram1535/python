@@ -115,3 +115,49 @@ f48. py -
 f49. py - 
 
 f50. py -  
+ 
+           Hard questions
+           
+ hdp 1.py- decimal number,integers are Give a string s,return true if is s is a valid number 
+ 
+ hdp 2.py- Maximum number of guests on cruise at an instance
+ 
+ hdp 3.py- Modify  sting by replacing characters  S
+ 
+ hdp 4.py- first letter of month should be capital
+ 
+ hdp 5.py- removing all words whish are present in both sentences 
+ 
+ hdp 6.py- Give the list of sting strs ,group the anagrams together
+ 
+ hdp 7.py- Give two strings world1 and world2 return the minimum number of operations required to convert world 1 to world 2.
+ 
+ hdp 8.py- Scramble String
+ 
+ hdp 9.py- lest appended at the end of the shuffled output
+ 
+ hdp 10.py- Reverse words in string 
+ 
+ 
+         Day 2 program's
+       
+ mdp 1.py-
+ 
+ mdp 2.py-
+ 
+ mdp 3.py-
+ 
+ mdp 4.py-
+ 
+ mdp 5.py-
+ 
+ mdp 6.py-
+ 
+ mdp 7.py-
+ 
+ mdp 8.py-
+ 
+ mdp 9.py-
+  
+ mdp 10.py-
+ 
