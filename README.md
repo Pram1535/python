@@ -112,9 +112,9 @@ f47. py -
 
 f48. py - 
 
-f49. py - 
+f49.hdp9. py - 
 
-f50. py -  
+f50.hdp10 py -  
  
            Hard questions
            
@@ -134,9 +134,9 @@ f50. py -
  
  hdp 8.py- Scramble String
  
- hdp 9.py- lest appended at the end of the shuffled output
+ f49.hdp9.py- lest appended at the end of the shuffled output
  
- hdp 10.py- Reverse words in string 
+ f50.hdp10.py- Reverse words in string 
  
  
          Day 2 program's
